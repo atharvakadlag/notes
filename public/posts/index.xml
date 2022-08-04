@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Atharva</title>
+    <link>example.com/posts/</link>
+    <description>Recent content in Posts on Atharva</description>
+    <image>
+      <url>example.com/papermod-cover.png</url>
+      <link>example.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to OpenMP</title>
+      <link>example.com/posts/hpc/openmp/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>example.com/posts/hpc/openmp/</guid>
+      <description>Understand the basics of OpenMP library used for parallel processing in C, C&#43;&#43; and Fortran</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>example.com/posts/competitive-coding/14-longest-common-prefix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>example.com/posts/competitive-coding/14-longest-common-prefix/</guid>
+      <description>Longest Common Prefix =========================  Description Write a function to find the longest common prefix string amongst an array of strings.
+If there is no common prefix, return an empty string &amp;ldquo;&amp;rdquo;.
+Example 1: Input: strs = [&amp;quot;flower&amp;quot;,&amp;quot;flow&amp;quot;,&amp;quot;flight&amp;quot;] Output: &amp;quot;fl&amp;quot; Solution Create an iterator integer variable with initial value. Get the letter at the position given by iterator from the first string. For every string there after, if letter changes break out the for loop and while loop.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>example.com/posts/competitive-coding/412-fizz-buzz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>example.com/posts/competitive-coding/412-fizz-buzz/</guid>
+      <description>412. Fizz Buzz Description Given an integer n, return a string array answer (1-indexed) where:
+answer[i] == &amp;quot;FizzBuzz&amp;quot; if i is divisible by 3 and 5. answer[i] == &amp;quot;Fizz&amp;quot; if i is divisible by 3. answer[i] == &amp;quot;Buzz&amp;quot; if i is divisible by 5. answer[i] == i (as a string) if none of the above conditions are true.
+Solution A straight forward solution with if statements printing out the required word by the appropriate condition.</description>
+    </item>
+    
+  </channel>
+</rss>
