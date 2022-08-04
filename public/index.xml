@@ -9,14 +9,23 @@
       <link>example.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to OpenMP</title>
-      <link>example.com/posts/hpc/openmp/</link>
+      <link>example.com/posts/hpc/open-mp/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>example.com/posts/hpc/openmp/</guid>
+      <guid>example.com/posts/hpc/open-mp/</guid>
       <description>Understand the basics of OpenMP library used for parallel processing in C, C&#43;&#43; and Fortran</description>
+    </item>
+    
+    <item>
+      <title>Motivation for High Performance Computing</title>
+      <link>example.com/posts/hpc/motivation-for-high-performance-computing/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>example.com/posts/hpc/motivation-for-high-performance-computing/</guid>
+      <description>Study the motivation and reasoning for using high performance computers.</description>
     </item>
     
     <item>
@@ -39,6 +48,17 @@ Example 1: Input: strs = [&amp;quot;flower&amp;quot;,&amp;quot;flow&amp;quot;,&a
       <description>412. Fizz Buzz Description Given an integer n, return a string array answer (1-indexed) where:
 answer[i] == &amp;quot;FizzBuzz&amp;quot; if i is divisible by 3 and 5. answer[i] == &amp;quot;Fizz&amp;quot; if i is divisible by 3. answer[i] == &amp;quot;Buzz&amp;quot; if i is divisible by 5. answer[i] == i (as a string) if none of the above conditions are true.
 Solution A straight forward solution with if statements printing out the required word by the appropriate condition.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>example.com/posts/ncs/ncs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>example.com/posts/ncs/ncs/</guid>
+      <description>Network Security  Security of multiple computers Protect data in storage and in transit. Wider field of study than computer security  Cryptographic Communication Transport and exchange protocols Best practices for establishing and maintaining networks   You need to protect not just data but resources  Information security Involves study of mathematical designs of cryptographic, communication transport and exchange protocols.
+Encoding and encrypting algorithms.
+Securing the computer network  Protect from internal as well as external unauthorised access.</description>
     </item>
     
     

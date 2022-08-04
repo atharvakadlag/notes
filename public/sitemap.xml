@@ -2,18 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>example.com/posts/hpc/openmp/</loc>
+    <loc>example.com/posts/hpc/open-mp/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>example.com/posts/hpc/motivation-for-high-performance-computing/</loc>
+    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>example.com/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>example.com/posts/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>example.com/posts/competitive-coding/14-longest-common-prefix/</loc>
   </url><url>
     <loc>example.com/posts/competitive-coding/412-fizz-buzz/</loc>
+  </url><url>
+    <loc>example.com/posts/ncs/ncs/</loc>
   </url><url>
     <loc>example.com/archives/</loc>
   </url><url>

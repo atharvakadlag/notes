@@ -10,7 +10,7 @@
 <meta name="description" content="Posts - Atharva">
 <meta name="author" content="Atharva Kadlag">
 <link rel="canonical" href="example.com/posts/">
-<link crossorigin="anonymous" href="/example.com/assets/css/stylesheet.6b02ca36e2052ca5453a2e3fee0f051b56159bdd0a10fd57635bba4cb8a434cf.css" integrity="sha256-awLKNuIFLKVFOi4/7g8FG1YVm90KEP1XY1u6TLikNM8=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/example.com/assets/css/stylesheet.b183800e2cfbb62c3bce2b2ba56cdb2dd33af76c75cf4550173d5dfebd7c68a6.css" integrity="sha256-sYOADiz7tiw7zisrpWzbLdM692x1z0VQFz1d/r18aKY=" rel="preload stylesheet" as="style">
 <link rel="icon" href="example.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="example.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="example.com/favicon-32x32.png">
@@ -138,12 +138,25 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>Shared Memory Parallel programming with OpenMP - (Open multi processing) Uses forks and join model Process splits into multiple threads and then can join back to split again if required.
+    <p>Forks and join model OpenMP uses forks and join model in which a process splits into multiple threads and then can join back to split again if required.
 Example of OpenMP OpenMP adapts raw OS thread interface to make it more usable.
 # include &lt;omp.h&gt; std::cout &lt;&lt; &#34;Hello single&#34;; #pragma omp parallel { do_work(op_get_thread_num(), omp_get_num_threads()); } gcc -fopenmp filename.c -o exec export OMP_NUM_THREADS=4 () ./exec  omp_get_wtime() gives you system time....</p>
   </div>
   <footer class="entry-footer"><span title='2022-08-03 00:00:00 +0000 UTC'>August 3, 2022</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Atharva Kadlag</footer>
-  <a class="entry-link" aria-label="post link to Introduction to OpenMP" href="example.com/posts/hpc/openmp/"></a>
+  <a class="entry-link" aria-label="post link to Introduction to OpenMP" href="example.com/posts/hpc/open-mp/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Motivation for High Performance Computing
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Solving large scale problems: (tera-scale / peta-scale) High performance computing can be used to solve problems on a large scale. For eg.
+ Getting weather data from a large number of cities and process it to forecast the weather. Predicting the number of active cases at the peak of pandemic or predicting the curve.  Measuring the speed of a processor Process speeds are measured in Gigahertz (hertz = cycles/sec) A average operation in a processor takes several cycles to complete....</p>
+  </div>
+  <footer class="entry-footer"><span title='2022-08-04 00:00:00 +0000 UTC'>August 4, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Atharva Kadlag</footer>
+  <a class="entry-link" aria-label="post link to Motivation for High Performance Computing" href="example.com/posts/hpc/motivation-for-high-performance-computing/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -172,6 +185,20 @@ Solution A straight forward solution with if statements printing out the require
   </div>
   <footer class="entry-footer">1 min&nbsp;·&nbsp;Atharva Kadlag</footer>
   <a class="entry-link" aria-label="post link to " href="example.com/posts/competitive-coding/412-fizz-buzz/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Network Security  Security of multiple computers Protect data in storage and in transit. Wider field of study than computer security  Cryptographic Communication Transport and exchange protocols Best practices for establishing and maintaining networks   You need to protect not just data but resources  Information security Involves study of mathematical designs of cryptographic, communication transport and exchange protocols.
+Encoding and encrypting algorithms.
+Securing the computer network  Protect from internal as well as external unauthorised access....</p>
+  </div>
+  <footer class="entry-footer">1 min&nbsp;·&nbsp;Atharva Kadlag</footer>
+  <a class="entry-link" aria-label="post link to " href="example.com/posts/ncs/ncs/"></a>
 </article>
     </main>
     

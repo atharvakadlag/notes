@@ -11,10 +11,9 @@ TocOpen: false
 weight: 2
 ---
 
-# Shared Memory Parallel programming with OpenMP - (Open multi processing)
-
-## Uses forks and join model
-Process splits into multiple threads and then can join back to split again if required.
+## Forks and join model
+OpenMP uses forks and join model in which a process splits into multiple
+threads and then can join back to split again if required.
 
 ## Example of OpenMP
 
